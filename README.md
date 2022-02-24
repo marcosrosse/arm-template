@@ -1,4 +1,4 @@
-*A REPOSITORY WITH AZURE ARM TEMPLATES EXAMPLE TO STUDY*
+*A REPOSITORY WITH AZURE ARM TEMPLATES EXAMPLES TO STUDY*
 
 arm-template templateFile="azuredeploy.json" 
 today=$(date "+%d-%b-%Y")
